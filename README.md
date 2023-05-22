@@ -57,5 +57,5 @@ I learned use of basic Javascript particularly the onclick event.
 
 ## Author
 
-- Website - [Bob Anugrah Murmu](https://www.your-site.com)
+=[Bob Anugrah Murmu]
 - Frontend Mentor - [@bobo-m](https://www.frontendmentor.io/profile/bobo-m)
