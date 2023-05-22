@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/bobo-m/Interactive-Rating--Frontend-Mentor)
+- Live Site URL: [Live Site](https://bobo-m.github.io/Interactive-Rating--Frontend-Mentor/)
 
 ## My process
 
